@@ -63,7 +63,7 @@ Please refer to the [official Python documentation](https://www.python.org/) for
 
 1. Clone the repo to your local machine
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/lht19900714/Invoice-Generator.git
    ```
 2. change directory to the project folder
    ```sh
@@ -77,8 +77,9 @@ Please refer to the [official Python documentation](https://www.python.org/) for
     ```sh
     python3 createCart --products=<product_name1> --products=<product_name2> --products=<product_name3>
     ```
-
+<br />
 If you want to run this program with typing "python3", you can do following steps.
+
 1. make the main.py file executable
    ```sh
    chmod +x createCart
