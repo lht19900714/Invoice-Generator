@@ -1,0 +1,32 @@
+{
+    "T-shirt": {
+        "item price": 30.99,
+        "shipped from": "US",
+        "weight": 0.2
+    },
+    "Blouse": {
+        "item price": 10.99,
+        "shipped from": "UK",
+        "weight": 0.3
+    },
+    "Pants": {
+        "item price": 64.99,
+        "shipped from": "UK",
+        "weight": 0.9
+    },
+    "Sweatpants": {
+        "item price": 4.99,
+        "shipped from": "UK",
+        "weight": 1.1
+    },
+    "Jacket": {
+        "item price": 199.99,
+        "shipped from": "US",
+        "weight": 2.2
+    },
+    "Shoes": {
+        "item price": 79.99,
+        "shipped from": "CN",
+        "weight": 1.3
+    }
+}
