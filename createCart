@@ -31,7 +31,8 @@ def main():
 		for item in inputs:
 			if item in products:
 				res.append(
-					Item(item, products[item]['item price'], products[item]['shipped from'], products[item]['weight']))
+					Item(item, products[item]['item price'], products[item]['country'], products[item]['weight'],
+					     products[item]['category']))
 		if len(res) == 0:
 			print('No product found')
 		else:
